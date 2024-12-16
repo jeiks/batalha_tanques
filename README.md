@@ -23,6 +23,8 @@ Teclas:
   Obs.: só pode atirar uma bala por segundo.
 * Tecla "s": exibe e esconde o placar do jogo.
 
+Se você quiser testar, acesse [https://jeiks.net/batalha_tanques/](https://www.jeiks.net/batalha_tanques/)
+
 ### Como configurar a execução do jogo
 
 Há várias formas de utilizar esse código, escolhendo colocar um tanque movido pelo teclado, nenhum ou vários tanques movidos aleatoriamente pelo JavaScript e nenhum ou vários tanques movidos pelo Prolog.
